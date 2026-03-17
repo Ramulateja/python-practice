@@ -1,3 +1,4 @@
+# it is a datastructure used in python totally ds contains 4types other 3 are tuples,sets and dictionaries.
 lists=[]
 for i in range(1,6):
     lists.append(i)
