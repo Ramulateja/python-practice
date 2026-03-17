@@ -19,3 +19,9 @@ def function():
     print(globalv)
 function()
 print(globalv)
+
+#function arguments
+def math(a,b):#this are parameters example of the values
+    print(a+b)
+math(1,2)
+math(22,22)
