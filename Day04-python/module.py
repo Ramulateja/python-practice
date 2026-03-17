@@ -1,4 +1,4 @@
-#modulo is like a librarie that we can create and use
+#modulo is like a librarie that we can create and use but it must be in the same folder to access
 def min(a,b):
     print(a-b)
 min(2,3)
