@@ -5,9 +5,17 @@ func()
 func()
 func()
 #global variable and local variable
-globalv=10
+globalv=10#global var
+def function():
+    globalv=11#local var
+    print(globalv)#prints the local var
+function()
+print(globalv)#The global variable prints because the local variable works only in inside of the function
+#if local val has to to print in outside of function we have to use the "global var name"
+globalv=99
 def function():
     global globalv
-    globalv=11
+    globalv=101
     print(globalv)
 function()
+print(globalv)
