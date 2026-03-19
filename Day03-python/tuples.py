@@ -1,4 +1,4 @@
-tup=("apple","bat","car")# tuples are unchangable we cant add add or delete the values and ordered allows duplicates
+tup=("apple","bat","car")# tuples are unchangable we cant add or delete the values and ordered,allows duplicates
 print(tup[1])
 
 #counting the no.of duplicates a specific value in the tuple
