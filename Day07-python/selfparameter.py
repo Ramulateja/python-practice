@@ -6,3 +6,11 @@ class person1:
         print("hello"+self.name)
 p1=person1("tej")
 p1.greet()# self become the p1 in place of self.
+
+
+#basic versiom
+class hello:
+    def __init__(self,name):
+        self.name=name
+p1=hello("tej")
+print(p1.name)
