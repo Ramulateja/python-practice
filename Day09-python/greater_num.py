@@ -8,4 +8,4 @@ class Solution:
             return c
 obj=Solution()
 print(obj.greatestOfThree(6,66,-5))
-#
+#finds the greaternum
