@@ -7,4 +7,4 @@ class Solution:
         else:
             return c
 obj=Solution()
-print(obj.greatestOfThree(2,5,-6))
+print(obj.greatestOfThree(6,66,-5))
