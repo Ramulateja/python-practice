@@ -6,3 +6,4 @@ class Solution:
             return "Odd"
 o=Solution()
 print(o.isEven(22))
+#check even or not
