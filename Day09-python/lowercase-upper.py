@@ -4,3 +4,4 @@ class Solution:
         return str.upper()
 s=Solution()
 print(s.to_upper(a))
+#
