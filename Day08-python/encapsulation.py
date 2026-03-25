@@ -9,4 +9,4 @@ class Bank:
         return self.__balance
 
 b = Bank()
-print(b.get_balance())                  
+print(b.get_balance())
